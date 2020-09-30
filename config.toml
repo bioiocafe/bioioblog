@@ -4,7 +4,7 @@ theme = "bioiotheme"
 # Override these settings with your own
 title = "Bioio"
 languageCode = "en-us"
-baseURL = "http://bioiocafe.github.io/bioioblog"
+baseURL = "http://bioiocafe.github.io/"
 copyright = "© {year}"
 
 # Add your Disqus shortname here.
